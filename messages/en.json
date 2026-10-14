@@ -1,0 +1,277 @@
+{
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "howItWorks": "How It Works",
+    "reviews": "Reviews",
+    "contact": "Order"
+  },
+  "cta": {
+    "primary": "Order Now",
+    "addToCart": "Add to cart",
+    "viewCart": "View cart",
+    "checkout": "Checkout",
+    "continueShopping": "Continue browsing menu",
+    "order": "Order"
+  },
+  "footer": {
+    "tagline": "Bold South Asian street food, cooked fresh and delivered hot in 30 minutes.",
+    "rights": "All rights reserved.",
+    "columns": {
+      "explore": "Explore",
+      "hours": "Hours",
+      "delivery": "Delivery Areas"
+    },
+    "links": {
+      "menu": "Menu",
+      "howItWorks": "How It Works",
+      "reviews": "Reviews"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Cloud Kitchen • Fresh Daily",
+      "title": "Street Food, Reinvented",
+      "subtitle": "Biryani, rolls, chaat and more — cooked to order and delivered to your door in 30 minutes or less.",
+      "primaryCta": "Order Now",
+      "secondaryCta": "View Menu"
+    },
+    "menu": {
+      "eyebrow": "Live Menu",
+      "title": "What are you craving?",
+      "subtitle": "Pick a category and build your order — every dish made fresh when you order.",
+      "categories": {
+        "biryani": "Biryani",
+        "rolls": "Rolls",
+        "chaat": "Chaat",
+        "desserts": "Desserts",
+        "drinks": "Drinks"
+      },
+      "spice": {
+        "mild": "Mild",
+        "medium": "Medium",
+        "hot": "Hot",
+        "veryHot": "Very Hot"
+      },
+      "addToCart": "Add to cart",
+      "items": [
+        {
+          "id": "chicken-biryani",
+          "category": "biryani",
+          "name": "Chicken Biryani",
+          "description": "Fragrant basmati rice layered with slow-cooked spiced chicken and fried onions.",
+          "price": "$12.99",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/6607a118fda44603ad6d5b1de75f54db.jpg",
+          "spice": "medium"
+        },
+        {
+          "id": "mutton-biryani",
+          "category": "biryani",
+          "name": "Mutton Biryani",
+          "description": "Tender mutton dum-cooked with saffron rice and whole spices.",
+          "price": "$15.99",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/6063240dcbc04eb795ed0c1a6f7a8ecd.jpg",
+          "spice": "hot"
+        },
+        {
+          "id": "veg-biryani",
+          "category": "biryani",
+          "name": "Veg Biryani",
+          "description": "Seasonal vegetables and paneer simmered in a fragrant masala with basmati rice.",
+          "price": "$10.99",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/6c3f9455e87e4e3b885e8ee4deff311d.jpg",
+          "spice": "mild"
+        },
+        {
+          "id": "seekh-kebab-roll",
+          "category": "rolls",
+          "name": "Seekh Kebab Roll",
+          "description": "Charred minced lamb kebab wrapped in a buttery paratha with mint chutney.",
+          "price": "$8.99",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/92ea4adc739c42329d6d363b9d23cda7.jpg",
+          "spice": "hot"
+        },
+        {
+          "id": "paneer-tikka-roll",
+          "category": "rolls",
+          "name": "Paneer Tikka Roll",
+          "description": "Chargrilled paneer tikka, pickled onions and chutney rolled in warm flatbread.",
+          "price": "$7.99",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/d86a54b3abdf493c81cf00b0cb1f0450.jpg",
+          "spice": "medium"
+        },
+        {
+          "id": "chicken-tikka-roll",
+          "category": "rolls",
+          "name": "Chicken Tikka Roll",
+          "description": "Smoky chicken tikka, crisp onions and tangy sauce rolled in a soft paratha.",
+          "price": "$8.49",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/edc5d38ed84341dabee6a860537a4e56.jpg",
+          "spice": "medium"
+        },
+        {
+          "id": "pani-puri",
+          "category": "chaat",
+          "name": "Pani Puri",
+          "description": "Crisp hollow puris filled with spiced potato, tangy tamarind and mint water.",
+          "price": "$6.99",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/7717f8883aad4ef2b1ef890afffad239.jpg",
+          "spice": "medium"
+        },
+        {
+          "id": "bhel-puri",
+          "category": "chaat",
+          "name": "Bhel Puri",
+          "description": "Puffed rice tossed with chutneys, onions, sev and fresh herbs.",
+          "price": "$6.49",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/44c63814d3164592a5efb3ccc32344cf.jpg",
+          "spice": "mild"
+        },
+        {
+          "id": "sev-puri",
+          "category": "chaat",
+          "name": "Sev Puri",
+          "description": "Crisp puris topped with potato, chutneys, yogurt and crunchy sev.",
+          "price": "$6.49",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/3980746ad7424f2486644cd231eff854.jpg",
+          "spice": "medium"
+        },
+        {
+          "id": "aloo-tikki-chaat",
+          "category": "chaat",
+          "name": "Aloo Tikki Chaat",
+          "description": "Pan-fried spiced potato patties layered with yogurt, chutneys and sev.",
+          "price": "$7.49",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/11b60981dbd64e48b007cc056e573884.jpg",
+          "spice": "mild"
+        },
+        {
+          "id": "gulab-jamun",
+          "category": "desserts",
+          "name": "Gulab Jamun",
+          "description": "Warm milk-solid dumplings soaked in rose-cardamom sugar syrup.",
+          "price": "$5.99",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/8c8a0bc5d44b41adbff4d7c13fb38238.jpg",
+          "spice": "mild"
+        },
+        {
+          "id": "kheer",
+          "category": "desserts",
+          "name": "Kheer",
+          "description": "Creamy rice pudding simmered with cardamom, saffron and pistachios.",
+          "price": "$5.49",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/d3bf9a548c7f4b2c93ce48caf3df3284.png",
+          "spice": "mild"
+        },
+        {
+          "id": "ras-malai",
+          "category": "desserts",
+          "name": "Ras Malai",
+          "description": "Soft cheese dumplings soaking in chilled saffron-cardamom milk.",
+          "price": "$6.49",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/4c38468d3005477c9f9cbc353c2d7a7a.jpg",
+          "spice": "mild"
+        },
+        {
+          "id": "mango-lassi",
+          "category": "drinks",
+          "name": "Mango Lassi",
+          "description": "Chilled yogurt smoothie blended with sweet Alphonso mango.",
+          "price": "$4.99",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/eba885d40b904fcfb31e258f5d135403.jpg",
+          "spice": "mild"
+        },
+        {
+          "id": "masala-chai",
+          "category": "drinks",
+          "name": "Masala Chai",
+          "description": "Strong black tea simmered with milk, ginger and whole spices.",
+          "price": "$3.49",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/1d9011a82f6d4d5185690b6c0affe2f8.jpg",
+          "spice": "mild"
+        },
+        {
+          "id": "rose-falooda",
+          "category": "drinks",
+          "name": "Rose Falooda",
+          "description": "Layered rose syrup, vermicelli, basil seeds and milk topped with kulfi.",
+          "price": "$5.99",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/f7b687ea3c044da0be7dd4f829cd3390.jpg",
+          "spice": "mild"
+        }
+      ]
+    },
+    "cart": {
+      "title": "Your Order",
+      "empty": "Your cart is empty — add some dishes from the menu!",
+      "subtotal": "Subtotal",
+      "deliveryEstimate": "Estimated delivery",
+      "deliveryTime": "25-30 min",
+      "checkout": "Checkout",
+      "remove": "Remove",
+      "quantity": "Qty"
+    },
+    "howItWorks": {
+      "eyebrow": "Simple Process",
+      "title": "From Order to Doorstep",
+      "subtitle": "Three steps, thirty minutes.",
+      "steps": [
+        {
+          "title": "1. You Order",
+          "description": "Browse the live menu and build your cart in seconds."
+        },
+        {
+          "title": "2. We Cook",
+          "description": "Our kitchen fires up your dishes fresh, right after you order."
+        },
+        {
+          "title": "3. We Deliver",
+          "description": "Hot and fresh at your door in 30 minutes or less."
+        }
+      ]
+    },
+    "reviews": {
+      "eyebrow": "Customer Love",
+      "title": "Loved by Street Food Fans",
+      "subtitle": "Real reviews from real cravings satisfied.",
+      "items": [
+        {
+          "quote": "The chicken biryani tasted like it came straight from a Hyderabad street cart. Arrived in 28 minutes, still steaming.",
+          "name": "Priya Nair",
+          "role": "Regular Customer"
+        },
+        {
+          "quote": "Their seekh kebab roll is unreal. Smoky, spicy, perfectly wrapped. I order it every Friday night.",
+          "name": "Marcus Chen",
+          "role": "Food Blogger"
+        },
+        {
+          "quote": "Pani puri delivered without going soggy? Saffron Street actually figured it out. Genuinely impressed.",
+          "name": "Ananya Rao",
+          "role": "Loyal Subscriber"
+        },
+        {
+          "quote": "Ordered the mutton biryani for a family dinner, it was gone in minutes. Rich, smoky, perfectly spiced.",
+          "name": "David Okafor",
+          "role": "Weekend Regular"
+        },
+        {
+          "quote": "Fast delivery, hot food, and the chaat tastes exactly like back home. This is my go-to cloud kitchen now.",
+          "name": "Simran Kaur",
+          "role": "First-Time Caller"
+        },
+        {
+          "quote": "The rose falooda is the perfect finish after a spicy roll. Thirty minutes, every single time.",
+          "name": "Leo Fernandes",
+          "role": "Dessert Enthusiast"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Craving something bold?",
+      "subtitle": "Order now and get it delivered hot in 30 minutes.",
+      "primaryCta": "Order Now",
+      "secondaryCta": "See Full Menu"
+    }
+  }
+}

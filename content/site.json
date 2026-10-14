@@ -1,0 +1,29 @@
+{
+  "brand": {
+    "name": "Saffron Street",
+    "tagline": "Modern South Asian street food, delivered fast.",
+    "logoUrl": null
+  },
+  "navLinks": [
+    { "key": "home", "href": "/" },
+    { "key": "menu", "href": "#menu" },
+    { "key": "howItWorks", "href": "#how-it-works" },
+    { "key": "reviews", "href": "#reviews" },
+    { "key": "contact", "href": "#contact" }
+  ],
+  "primaryCta": { "key": "order", "href": "#menu" },
+  "footerColumns": [
+    {
+      "key": "explore",
+      "links": [
+        { "key": "menu", "href": "#menu" },
+        { "key": "howItWorks", "href": "#how-it-works" },
+        { "key": "reviews", "href": "#reviews" }
+      ]
+    }
+  ],
+  "socialLinks": [],
+  "motion": { "intensity": 6 },
+  "navbarVariant": "split",
+  "footerVariant": "columns"
+}
